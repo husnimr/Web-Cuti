@@ -1,6 +1,6 @@
 # Aplikasi-Cuti-Karyawan
 Aplikasi cuti karyawan merupakan aplikasi managemen cuti free version yang bisa anda gunakan untuk keperluan pencatatan dan memanage cuti
-karyawan di perusahaan anda, untuk detail silahkan kunjungi www.hakkoblogs.com
+karyawan di perusahaan anda.
 
 Berikut tampilan dari aplikasi cuti
 
@@ -19,7 +19,6 @@ Halaman Input Karyawan
 Halaman Input Cuti
 ![Screenshot_11](https://user-images.githubusercontent.com/5027795/57510743-bc39b100-7331-11e9-868e-f7e151c7571b.png)
 
-Untuk aplikasi lainnya kunjungi www.hakkoblogs.com
 
 
 
